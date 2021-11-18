@@ -25,7 +25,7 @@ echo ""
 echo "                   This Code Made By Farabi Rayman "
 
 echo ""
-read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
+read -p " Does you want to install Spider Shell in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     clear
