@@ -27,9 +27,6 @@ echo -e  "              \e[32mThis Code Made By Farabi Rayman \e[0m "
 echo ""
 echo ""
 echo ""
-echo "                   This Code Made By Farabi Rayman "
-
-echo ""
 read -p " Does you want to install Spider Shell in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
